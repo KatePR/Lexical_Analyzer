@@ -1,0 +1,10 @@
+main ( ) xxx
+ { int x, result;
+   read x;
+   if (x >= 123) result=x+1000; else result=0; endif
+   while (y != 456) { y=y*x/78 - 9; write y; }
+ }
+
+main val ref int read write call if else endif while
+(  ) {  }  ,  ;  =  ==  !=  <  <=  >  >=  +  -  *  /
+done

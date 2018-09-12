@@ -1,0 +1,33 @@
+mainToken    
+leftParen    
+rightParen   
+id                xxx
+leftBrace    
+intToken     
+id                x
+comma        
+id                result
+semicolon    
+readToken    
+id                x
+semicolon    
+ifToken      
+leftParen    
+id                x
+greaterEqual 
+number            123
+rightParen   
+id                result
+equality     
+id                x
+plusToken    
+number            1000
+semicolon    
+elseToken    
+id                result
+equality     
+number            0
+semicolon    
+endifToken   
+whileToken   
+leftParen    
